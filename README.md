@@ -1,12 +1,14 @@
 # 👋 Hey, I'm Fouad (fightMMC0lub)  
 
+![Hacker GIF](https://media.giphy.com/media/3oKIPa3AeDQ56ntX4k/giphy.gif?cid=ecf05e477oc6v84mt2ymtvvqo9psyd1edsau9rk7ywg30huo&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
+
 I'm a student exploring **networking, cybersecurity, and system administration**. I enjoy **coding, hacking, and learning new things**.  
 I also build **Python tools** for automating network tasks and am currently learning **C++**.  
 
 ---
 
 ## 🎬 Hacking & Tech Vibes  
-<img src="https://media.tenor.com/D7nXf-XD8hkAAAAC/hacker-pc.gif" width="500">  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
 *(Trying to look like a pro while just running `ifconfig` 🤣)*  
 
 ---
@@ -22,13 +24,13 @@ I also build **Python tools** for automating network tasks and am currently lear
 ## 🎮 Fun GIFs for No Reason  
 
 👨‍💻 **When the code finally works:**  
-<img src="https://media.tenor.com/UttC4AITYRMAAAAC/mr-robot-hack.gif" width="500">  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
 
 🔥 **After spending hours debugging:**  
-<img src="https://media.tenor.com/JVubQm6tRAwAAAAC/hackerman.gif" width="500">  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
 
 😎 **When someone asks if I can hack their WiFi:**  
-<img src="https://media.tenor.com/3btE9OthQqgAAAAC/matrix-hack.gif" width="500">  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
 
 ---
 
@@ -51,7 +53,7 @@ This is where I upload my work, write about what I learn, and share my projects:
 ---
 
 ## 🎥 Cyber Aesthetic  
-<img src="https://media.tenor.com/YV7IOd3sH6oAAAAC/hacker.gif" width="500">  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
 *(Just me, writing scripts and pretending to be in *Mr. Robot*)*  
 
 ---
