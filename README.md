@@ -1,29 +1,43 @@
-# Hi there, I'm Fouad (fightMMC0lub) 👋  
+# 👋 Hey, I'm Fouad (fightMMC0lub)  
 
-I'm a student exploring the world of networking, cybersecurity, and system administration. I enjoy programming and building Python tools for automating network tasks. I'm also learning C++ and other skills as I grow in the tech field.  
+I'm a student exploring **networking, cybersecurity, and system administration**. I enjoy **coding, hacking, and learning new things**.  
+I also build **Python tools** for automating network tasks and am currently learning **C++**.  
 
 ---
 
-## 🎬 Movie Vibes  
-<img src="https://media.giphy.com/media/3o6ZsXoF7Bf7FbAqdi/giphy.gif" width="500">  
-*(When you see the code running... but you have no idea what it does 🤣)*  
+## 🎬 Hacking & Tech Vibes  
+<img src="https://media.tenor.com/D7nXf-XD8hkAAAAC/hacker-pc.gif" width="500">  
+*(Trying to look like a pro while just running `ifconfig` 🤣)*  
 
 ---
 
 ## 🔧 What I Do  
-- **Networking & Security:** Learning how to set up, manage, and secure networks.  
-- **Network Automation:** Creating simple Python tools to make network tasks easier.  
-- **Programming:** Working with JavaScript, Python, HTML, CSS, and learning C++.  
-- **Systems:** Experimenting with Linux, Windows, and server management.  
+🚀 **Networking & Security:** Learning how to set up, manage, and secure networks.  
+🤖 **Network Automation:** Creating Python tools for faster network tasks.  
+💻 **Programming:** Working with **JavaScript, Python, HTML, CSS**, and learning **C++**.  
+🖥️ **Systems:** Experimenting with **Linux, Windows, and servers**.  
+
+---
+
+## 🎮 Fun GIFs for No Reason  
+
+👨‍💻 **When the code finally works:**  
+<img src="https://media.tenor.com/UttC4AITYRMAAAAC/mr-robot-hack.gif" width="500">  
+
+🔥 **After spending hours debugging:**  
+<img src="https://media.tenor.com/JVubQm6tRAwAAAAC/hackerman.gif" width="500">  
+
+😎 **When someone asks if I can hack their WiFi:**  
+<img src="https://media.tenor.com/3btE9OthQqgAAAAC/matrix-hack.gif" width="500">  
 
 ---
 
 ## 📂 Connect With Me  
 This is where I upload my work, write about what I learn, and share my projects:  
 
-- 🌍 **Website:** [fightmmc0lub.github.io](https://fightmmc0lub.github.io/)  
-- ✍️ **Blog:** [the0xtechworld.blogspot.com](https://the0xtechworld.blogspot.com/)  
-- 💻 **GitHub:** [github.com/fightMMC0lub](https://github.com/fightMMC0lub)  
+🌍 **Website:** [fightmmc0lub.github.io](https://fightmmc0lub.github.io/)  
+✍️ **Blog:** [the0xtechworld.blogspot.com](https://the0xtechworld.blogspot.com/)  
+💻 **GitHub:** [github.com/fightMMC0lub](https://github.com/fightMMC0lub)  
 
 ---
 
@@ -36,9 +50,9 @@ This is where I upload my work, write about what I learn, and share my projects:
 
 ---
 
-## 🎥 Movie Aesthetic  
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">  
-*(Me trying to hack like in movies but it's just a ping command 😆)*  
+## 🎥 Cyber Aesthetic  
+<img src="https://media.tenor.com/YV7IOd3sH6oAAAAC/hacker.gif" width="500">  
+*(Just me, writing scripts and pretending to be in *Mr. Robot*)*  
 
 ---
 
@@ -57,11 +71,3 @@ If you want to chat, collaborate, or have any questions, feel free to reach out:
 
 Thanks for stopping by! 🚀  
 
----
-
-### 🎨 **How to Customize This?**  
-- Replace the GIF links with **your favorite movie/hacker images**.  
-- You can upload custom images to **Imgur** or **GitHub** and use them.  
-- Add more **fun movie references** (e.g., *The Matrix* code GIFs).  
-
-Would you like specific images from a particular movie? Let me know, and I can help you find or create them! 🚀
