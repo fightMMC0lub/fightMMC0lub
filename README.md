@@ -77,10 +77,23 @@ This is where I upload my work, write about what I learn, and share my projects:
 ---
 
 ## 📫 Get In Touch  
-If you want to chat, collaborate, or have any questions, feel free to reach out:  
-📧 **Email:** [jihgeharverserv@gmail.com](mailto:jihgeharverserv@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/fouad-azahaf-51a783335](https://www.linkedin.com/in/fouad-azahaf-51a783335)  
-📘 **Facebook:** [Facebook Profile](https://www.facebook.com/profile.php?id=100068601822789)  
+
+<p align="center">
+  <a href="mailto:jihgeharverserv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/fouad-azahaf-51a783335">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100068601822789">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>📩 Feel free to reach out for networking, collaborations, or just a chat!</b>
+</p>
+
 
 Thanks for stopping by! 🚀  
 
