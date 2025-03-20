@@ -91,5 +91,5 @@ I also build **Python tools** for automating network tasks and am currently lear
   <b>📩 Feel free to reach out for networking, collaborations, or a quick chat!</b>
 </p>
 
-     <b>Thanks for visiting!</b>
+  <b>Thanks for visiting!</b>
 
