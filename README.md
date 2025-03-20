@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Fouad (fightMMC0lub)  
 
 ![image GIF](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=790b7611h773n266fj0yyb8104gnkoxtrhjoamzd6dx5aor5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-![Hacker GIF](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47vhveb9vyfn24muvut813rpsp6jixfspsct4l4sam&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Hacker GIF](https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif?cid=ecf05e47l1ks1vsuaizm5cq5es6ad4ksr336dwqyymkgctrn&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 I'm a student exploring **networking, cybersecurity, and system administration**. I enjoy **coding, hacking, and learning new things**.  
 I also build **Python tools** for automating network tasks and am currently learning **C++**.  
@@ -88,9 +88,8 @@ I also build **Python tools** for automating network tasks and am currently lear
 </p>
 
 <p align="center">
-  <b>📩 Feel free to reach out for networking, collaborations, or just a chat!</b>
+  <b>📩 Feel free to reach out for networking, collaborations, or a quick chat!</b>
 </p>
 
-
-Thanks for stopping by! 🚀  
+Thanks for visiting! 🚀  
 
