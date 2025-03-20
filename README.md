@@ -39,10 +39,20 @@ I also build **Python tools** for automating network tasks and am currently lear
 
 ## 🛠️ Badges for Skills & Socials  
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://fightmmc0lub.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fouad-azahaf-51a783335)  
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100068601822789)  
-[![Blogger](https://img.shields.io/badge/Blog-Read-orange?style=flat-square&logo=blogger)](https://the0xtechworld.blogspot.com/)  
+<p align="center">
+  <a href="https://fightmmc0lub.github.io/">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white&logoSize=40" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/fouad-azahaf-51a783335">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100068601822789">
+    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook&logoColor=white&logoSize=40" alt="Facebook" />
+  </a>
+  <a href="https://the0xtechworld.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blog-Read-orange?style=for-the-badge&logo=blogger&logoColor=white&logoSize=40" alt="Blog" />
+  </a>
+</p>
 
 ---
 
