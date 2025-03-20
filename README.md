@@ -21,36 +21,24 @@ I also build **Python tools** for automating network tasks and am currently lear
 
 ---
 
-## 🎮 Fun GIFs for No Reason  
-
-👨‍💻 **When the code finally works:**  
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif](https://media.giphy.com/media/botS02NGr0r8cCVsu8/giphy.gif?cid=ecf05e47tm9lkua9g5dolucqbflq1q9hk7kj9kod3qgmwisd&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="500">  
-
-🔥 **After spending hours debugging:**  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
-
-😎 **When someone asks if I can hack their WiFi:**  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
-
----
-
 ## 📂 Connect With Me  
 
 <p align="center">
-  <a href="https://fightmmc0lub.github.io/">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://fightmmc0lub.github.io/" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/000000/domain.png"/>
   </a>
-  <a href="https://the0xtechworld.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=blogger&logoColor=white" />
+  <a href="https://the0xtechworld.blogspot.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/000000/blogger.png"/>
   </a>
-  <a href="https://github.com/fightMMC0lub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/fightMMC0lub" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/000000/github.png"/>
   </a>
 </p>
 
 <p align="center">
   <b>🚀 This is where I upload my work, write about what I learn, and share my projects!</b>
 </p>
+
 
 ---
 
