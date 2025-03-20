@@ -8,8 +8,7 @@ I also build **Python tools** for automating network tasks and am currently lear
 ---
 
 ## 🎬 Hacking & Tech Vibes  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
-*(Trying to look like a pro while just running `ifconfig` 🤣)*  
+![Trying to look like a pro while just running `ifconfig` 🤣](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif)
 
 ---
 
