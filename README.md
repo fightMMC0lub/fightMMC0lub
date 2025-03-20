@@ -59,9 +59,20 @@ This is where I upload my work, write about what I learn, and share my projects:
 ---
 
 ## 📊 GitHub Stats  
-![fightMMC0lub's GitHub stats](https://github-readme-stats.vercel.app/api?username=fightMMC0lub&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fightMMC0lub&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fightMMC0lub&layout=compact&theme=dark)  
+
+<p align="center">
+  <a href="https://github.com/fightMMC0lub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fightMMC0lub&show_icons=true&theme=dark" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fightMMC0lub&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fightMMC0lub">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fightMMC0lub&layout=compact&theme=dark" />
+  </a>
+</p>
+
 
 ---
 
