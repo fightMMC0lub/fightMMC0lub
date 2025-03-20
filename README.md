@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Fouad (fightMMC0lub)  
 
-![Hacker GIF](https://media.giphy.com/media/3oKIPa3AeDQ56ntX4k/giphy.gif?cid=ecf05e477oc6v84mt2ymtvvqo9psyd1edsau9rk7ywg30huo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![image GIF](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=790b7611h773n266fj0yyb8104gnkoxtrhjoamzd6dx5aor5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ![Hacker GIF](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47vhveb9vyfn24muvut813rpsp6jixfspsct4l4sam&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 I'm a student exploring **networking, cybersecurity, and system administration**. I enjoy **coding, hacking, and learning new things**.  
