@@ -23,7 +23,7 @@ I also build **Python tools** for automating network tasks and am currently lear
 ## 🎮 Fun GIFs for No Reason  
 
 👨‍💻 **When the code finally works:**  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif](https://media.giphy.com/media/botS02NGr0r8cCVsu8/giphy.gif?cid=ecf05e47tm9lkua9g5dolucqbflq1q9hk7kj9kod3qgmwisd&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="500">  
 
 🔥 **After spending hours debugging:**  
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
