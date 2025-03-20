@@ -3,7 +3,7 @@
 ![image GIF](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=790b7611h773n266fj0yyb8104gnkoxtrhjoamzd6dx5aor5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ![Hacker GIF](https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif?cid=ecf05e47l1ks1vsuaizm5cq5es6ad4ksr336dwqyymkgctrn&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-I'm a student exploring **networking, cybersecurity, and system administration**. I enjoy **coding, hacking, and learning new things**.  
+I'm a student exploring **networking, cybersecurity, and system administration**. I enjoy **coding, and learning new things**.  
 I also build **Python tools** for automating network tasks and am currently learning **C++**.  
 
 ---
