@@ -2,7 +2,11 @@
 
 I'm a student exploring the world of networking, cybersecurity, and system administration. I enjoy programming and building Python tools for automating network tasks. I'm also learning C++ and other skills as I grow in the tech field.  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+---
+
+## 🎬 Movie Vibes  
+<img src="https://media.giphy.com/media/3o6ZsXoF7Bf7FbAqdi/giphy.gif" width="500">  
+*(When you see the code running... but you have no idea what it does 🤣)*  
 
 ---
 
@@ -32,6 +36,12 @@ This is where I upload my work, write about what I learn, and share my projects:
 
 ---
 
+## 🎥 Movie Aesthetic  
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">  
+*(Me trying to hack like in movies but it's just a ping command 😆)*  
+
+---
+
 ## 📊 GitHub Stats  
 ![fightMMC0lub's GitHub stats](https://github-readme-stats.vercel.app/api?username=fightMMC0lub&show_icons=true&theme=dark)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fightMMC0lub&theme=dark)  
@@ -46,3 +56,12 @@ If you want to chat, collaborate, or have any questions, feel free to reach out:
 📘 **Facebook:** [Facebook Profile](https://www.facebook.com/profile.php?id=100068601822789)  
 
 Thanks for stopping by! 🚀  
+
+---
+
+### 🎨 **How to Customize This?**  
+- Replace the GIF links with **your favorite movie/hacker images**.  
+- You can upload custom images to **Imgur** or **GitHub** and use them.  
+- Add more **fun movie references** (e.g., *The Matrix* code GIFs).  
+
+Would you like specific images from a particular movie? Let me know, and I can help you find or create them! 🚀
