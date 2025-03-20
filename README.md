@@ -89,8 +89,8 @@ I also build **Python tools** for automating network tasks and am currently lear
 
 <p align="center">
   <b>📩 Feel free to reach out for networking, collaborations, or a quick chat!</b>
-  <b>Thanks for visiting!</b>
 </p>
 
+<b>Thanks for visiting!</b>
 Thanks for visiting! 🚀  
 
