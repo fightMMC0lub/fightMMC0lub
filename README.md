@@ -35,11 +35,22 @@ I also build **Python tools** for automating network tasks and am currently lear
 ---
 
 ## 📂 Connect With Me  
-This is where I upload my work, write about what I learn, and share my projects:  
 
-🌍 **Website:** [fightmmc0lub.github.io](https://fightmmc0lub.github.io/)  
-✍️ **Blog:** [the0xtechworld.blogspot.com](https://the0xtechworld.blogspot.com/)  
-💻 **GitHub:** [github.com/fightMMC0lub](https://github.com/fightMMC0lub)  
+<p align="center">
+  <a href="https://fightmmc0lub.github.io/">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://the0xtechworld.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+  <a href="https://github.com/fightMMC0lub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🚀 This is where I upload my work, write about what I learn, and share my projects!</b>
+</p>
 
 ---
 
@@ -49,12 +60,6 @@ This is where I upload my work, write about what I learn, and share my projects:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fouad-azahaf-51a783335)  
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100068601822789)  
 [![Blogger](https://img.shields.io/badge/Blog-Read-orange?style=flat-square&logo=blogger)](https://the0xtechworld.blogspot.com/)  
-
----
-
-## 🎥 Cyber Aesthetic  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpdWloZXdvZGVueWVpcnA0YXJ4dHI3d3pscjQxcGJpNWVpbDY4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="500">  
-*(Just me, writing scripts and pretending to be in *Mr. Robot*)*  
 
 ---
 
@@ -72,7 +77,6 @@ This is where I upload my work, write about what I learn, and share my projects:
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fightMMC0lub&layout=compact&theme=dark" />
   </a>
 </p>
-
 
 ---
 
