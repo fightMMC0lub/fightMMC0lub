@@ -1,64 +1,95 @@
-<h5 align="center">👋 Hey, I'm Fouad (fightMMC0lub)<br>I'm a student exploring networking, cybersecurity, and system administration. I enjoy coding, and learning new things.<br>I also build Python tools for automating network tasks and am currently learning C++.</h5>
+# 👋 Hey, I'm Fouad (fightMMC0lub)  
 
-###
+![image GIF](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=790b7611h773n266fj0yyb8104gnkoxtrhjoamzd6dx5aor5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Hacker GIF](https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif?cid=ecf05e47l1ks1vsuaizm5cq5es6ad4ksr336dwqyymkgctrn&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-<div align="right">
-  <img height="150" src="https://tenor.com/sMKW.gif"  />
-</div>
+I'm a student exploring **networking, cybersecurity, and system administration**. I enjoy **coding, and learning new things**.  
+I also build **Python tools** for automating network tasks and am currently learning **C++**.  
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
+## 🔧 What I Do  
+🚀 **Networking & Security:** Learning how to set up, manage, and secure networks.  
+🤖 **Network Automation:** Creating Python tools for faster network tasks.  
+💻 **Programming:** Working with **JavaScript, Python, HTML, CSS**, and learning **C++**.  
+🖥️ **Systems:** Experimenting with **Linux, Windows, and servers**.  
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=plastic" height="35" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="35" alt="hackerrank logo"  />
-</div>
+## 📂 Connect With Me  
 
-###
+<p align="center">
+  <a href="https://fightmmc0lub.github.io/" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/000000/domain.png"/>
+  </a>
+  <a href="https://the0xtechworld.blogspot.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/000000/blogger.png"/>
+  </a>
+  <a href="https://github.com/fightMMC0lub" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/000000/github.png"/>
+  </a>
+</p>
 
-<h6 align="left">🚀 Networking & Security: Learning how to set up, manage, and secure networks.<br>🤖 Network Automation: Creating Python tools for faster network tasks.<br>💻 Programming: Working with JavaScript, Python, HTML, CSS, and learning C++.<br>🖥️ Systems: Experimenting with Linux, Windows, and servers.</h6>
+<p align="center">
+  <b>🚀 This is where I upload my work, write about what I learn, and share my projects!</b>
+</p>
 
-###
+
+---
+
+## 🛠️ Badges for Skills & Socials  
+
+<p align="center">
+  <a href="https://fightmmc0lub.github.io/">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white&logoSize=40" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/fouad-azahaf-51a783335">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100068601822789">
+    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook&logoColor=white&logoSize=40" alt="Facebook" />
+  </a>
+  <a href="https://the0xtechworld.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blog-Read-orange?style=for-the-badge&logo=blogger&logoColor=white&logoSize=40" alt="Blog" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <a href="https://github.com/fightMMC0lub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fightMMC0lub&show_icons=true&theme=dark" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fightMMC0lub&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fightMMC0lub">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fightMMC0lub&layout=compact&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 📫 Get In Touch  
+
+<p align="center">
+  <a href="mailto:jihgeharverserv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/fouad-azahaf-51a783335">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100068601822789">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>📩 Feel free to reach out for networking, collaborations, or a quick chat!</b>
+</p>
+
+  <b>Thanks for visiting!</b>
+
