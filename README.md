@@ -1,95 +1,84 @@
-# 👋 Hey, I'm Fouad (fightMMC0lub)  
+<h1 align="left">👋 Hey, I'm Fouad (fightMMC0lub)</h1>
 
-![image GIF](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=790b7611h773n266fj0yyb8104gnkoxtrhjoamzd6dx5aor5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-![Hacker GIF](https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif?cid=ecf05e47l1ks1vsuaizm5cq5es6ad4ksr336dwqyymkgctrn&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+###
 
-I'm a student exploring **networking, cybersecurity, and system administration**. I enjoy **coding, and learning new things**.  
-I also build **Python tools** for automating network tasks and am currently learning **C++**.  
+<h5 align="left">I'm a student exploring networking, cybersecurity, and system administration. I enjoy coding, and learning new things.<br>I also build Python tools for automating network tasks and am currently learning C++.</h5>
 
----
+###
 
-## 🔧 What I Do  
-🚀 **Networking & Security:** Learning how to set up, manage, and secure networks.  
-🤖 **Network Automation:** Creating Python tools for faster network tasks.  
-💻 **Programming:** Working with **JavaScript, Python, HTML, CSS**, and learning **C++**.  
-🖥️ **Systems:** Experimenting with **Linux, Windows, and servers**.  
+<h1 align="left">🔧 What I Do</h1>
 
----
+###
 
-## 📂 Connect With Me  
+<p align="left">🚀 Networking & Security: Learning how to set up, manage, and secure networks.<br>🤖 Network Automation: Creating Python tools for faster network tasks.<br>💻 Programming: Working with JavaScript, Python, HTML, CSS, and learning C++.<br>🖥️ Systems: Experimenting with Linux, Windows, and servers.</p>
 
-<p align="center">
-  <a href="https://fightmmc0lub.github.io/" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/000000/domain.png"/>
-  </a>
-  <a href="https://the0xtechworld.blogspot.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/000000/blogger.png"/>
-  </a>
-  <a href="https://github.com/fightMMC0lub" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/000000/github.png"/>
-  </a>
-</p>
+###
 
-<p align="center">
-  <b>🚀 This is where I upload my work, write about what I learn, and share my projects!</b>
-</p>
+<h1 align="left">📂 Connect With Me</h1>
 
+###
 
----
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="26" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="26" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="26" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="26" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="26" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=plastic" height="26" alt="tryhackme logo"  />
+  <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=plastic" height="26" alt="signal logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="26" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=plastic" height="26" alt="gitlab logo"  />
+</div>
 
-## 🛠️ Badges for Skills & Socials  
+###
 
-<p align="center">
-  <a href="https://fightmmc0lub.github.io/">
-    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white&logoSize=40" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/fouad-azahaf-51a783335">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100068601822789">
-    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook&logoColor=white&logoSize=40" alt="Facebook" />
-  </a>
-  <a href="https://the0xtechworld.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blog-Read-orange?style=for-the-badge&logo=blogger&logoColor=white&logoSize=40" alt="Blog" />
-  </a>
-</p>
+<h4 align="left">🚀 This is where I upload my work, write about what I learn, and share my projects!</h4>
 
----
+###
 
-## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/fightMMC0lub">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fightMMC0lub&show_icons=true&theme=dark" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fightMMC0lub&theme=dark" />
-  </a>
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/fightMMC0lub">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fightMMC0lub&layout=compact&theme=dark" />
-  </a>
-</p>
+<h1 align="left">📊 GitHub Stats</h1>
 
----
+###
 
-## 📫 Get In Touch  
+<h1 align="left">I work with</h1>
 
-<p align="center">
-  <a href="mailto:jihgeharverserv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/fouad-azahaf-51a783335">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100068601822789">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+###
 
-<p align="center">
-  <b>📩 Feel free to reach out for networking, collaborations, or a quick chat!</b>
-</p>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/markdown/000000" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+</div>
 
-  <b>Thanks for visiting!</b>
+###
 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@fightMMC0lub&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
