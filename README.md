@@ -230,16 +230,6 @@ As a beginner, I believe in starting with the basics and building my knowledge s
 
 ---
 
-<div align="center">
-  
-  <sub>**© 2025 Fouad Azahaf** | A cybersecurity student learning and growing</sub>
-  
-  <sub>*Last Updated: December 2024*</sub>
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
-</div>
-
 ## 📫 Contact Information
 
 - **Full Name:** Fouad Azahaf
@@ -251,3 +241,15 @@ As a beginner, I believe in starting with the basics and building my knowledge s
 - **Ista:** IFMOTICA FES
 - **Status:** Cybersecurity Student (Beginner Level)
 - **Looking to:** excited to learn, grow, and share knowledge in the cybersecurity world
+
+---
+
+<div align="center">
+  
+  <sub>**© 2025 Fouad Azahaf** | A cybersecurity student learning and growing</sub>
+  
+  <sub>*Last Updated: December 2024*</sub>
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  
+</div>
