@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="[https://placeholder.svg?height=120&width=120&text=Profile](https://raw.githubusercontent.com/fightMMC0lub/fightMMC0lub/main/assets/pr.png)" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #3182CE;" width="120" height="120"/>
+  <img src="https://raw.githubusercontent.com/fightMMC0lub/fightMMC0lub/main/assets/pr.png" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #3182CE;" width="120" height="120"/>
   
   # 👋 Hi, I'm **Fouad Azahaf**
   
