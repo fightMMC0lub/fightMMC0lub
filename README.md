@@ -2,254 +2,131 @@
   
   <img src="https://raw.githubusercontent.com/fightMMC0lub/fightMMC0lub/main/assets/pr.png" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #3182CE;" width="120" height="120">
   
-  # 👋 Hi, I'm **Fouad Azahaf**
+  # 👋 Hi, I'm Fouad Azahaf
   
-  ### Cybersecurity Student @ IFMOTICA FES
+  ### Cybersecurity Student
   
-  *Learning about digital security and building my skills step by step*
+  *Learning about security, networks, and how to keep things safe online*
   
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fightMMC0lub)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fouad-azahaf/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fouadazahf@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://fouad-azahaf.netlify.app/)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=fightMMC0lub&color=3182CE&style=flat-square&label=Profile+Views)
+  [![GitHub](https://img.shields.io/badge/GitHub-fightMMC0lub-181717?style=flat&logo=github)](https://github.com/fightMMC0lub)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fouad%20Azahaf-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/fouad-azahaf/)
+  [![Email](https://img.shields.io/badge/Email-fouadazahf%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:fouadazahf@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-View%20Online-4285F4?style=flat&logo=googledocs)](https://fouad-azahaf.netlify.app/)
   
 </div>
 
 ---
 
-## 🎯 About Me
+## 📝 About Me
 
-Hello! I'm **Fouad Azahaf**, a beginner in cybersecurity currently studying at IFMOTICA FES. I'm just starting my journey in this exciting field and learning about how to keep computers and networks safe.
+Hello! I'm Fouad, a cybersecurity student from Fes, Morocco. I'm currently studying digital infrastructure with a focus on cybersecurity and learning how systems work and how to protect them.
 
-Right now, I'm focused on understanding the basics of cybersecurity. I'm learning  how to protect systems, and the importance of keeping information safe online. Every day brings new things to learn, and I'm enjoying the process of building my knowledge from the ground up.
+I'm still early in my learning journey, but I'm excited about security and enjoy figuring out how things work. Right now, I'm focused on understanding the basics and building a solid foundation.
 
-I'm currently working on improving my technical skills through small projects and hands-on practice. I believe that the best way to learn is by doing, so I try to apply what I learn in class to real situations.
-
-As a student, I'm still exploring different areas of cybersecurity to find what interests me most. I'm curious about how security tools work and how to use them properly.
+Outside of studies, I work on small projects to practice what I'm learning. I believe the best way to learn is by doing, so I try to apply new concepts through hands-on practice.
 
 ---
 
-## 🛠️ Technical Skills I'm Learning
+## 🛠️ What I'm Learning
 
-### 🔐 Security Basics (Currently Learning)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+### Programming & Scripting
+- **Python** - For security tools and automation
+- **Bash/PowerShell** - For system tasks and scripting
+- **JavaScript/HTML/CSS** - Web basics
 
-### 💻 Programming (Beginner Level)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![C++](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+### Security Tools
+- **Network scanning** with basic tools
+- **Linux command line** and system basics
+- **Docker** for containerization
 
-### 🔧 Tools I'm Getting Familiar With
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### 📚 Areas I'm Studying
-- Basic computer networks and how they work
-- Introduction to cybersecurity concepts
-- Learning about common security problems
-- Basic programming for security tasks
-- Understanding how operating systems work
+### Current Focus Areas
+- Network security fundamentals
+- Basic system administration
+- Web technology basics
+- Scripting for automation
 
 ---
 
-## 🚀 Learning Projects
+## 🚀 My Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔍 Simple Network Scanner</h3>
-      <p align="center">
-        <a href="https://github.com/fightMMC0lub/network-scanner" target="_blank">
-          <img src="https://placeholder.svg?height=200&width=400&text=Network+Scanner" alt="Network Scanner" width="100%"/>
-        </a>
-      </p>
-      <p>A basic Python tool to scan networks and learn how devices connect to each other.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/fightMMC0lub/network-scanner" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛡️ Simple Password Checker</h3>
-      <p align="center">
-        <a href="https://github.com/fightMMC0lub/password-checker" target="_blank">
-          <img src="https://placeholder.svg?height=200&width=400&text=Password+Checker" alt="Password Checker" width="100%"/>
-        </a>
-      </p>
-      <p>A basic tool to check if passwords are strong and follow security rules.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/fightMMC0lub/password-checker" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Basic Web Security Notes</h3>
-      <p align="center">
-        <a href="https://github.com/fightMMC0lub/web-security-notes" target="_blank">
-          <img src="https://placeholder.svg?height=200&width=400&text=Web+Security+Notes" alt="Web Security Notes" width="100%"/>
-        </a>
-      </p>
-      <p>My personal notes and learning materials about website security basics.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/fightMMC0lub/web-security-notes" target="_blank">
-          <img src="https://img.shields.io/badge/View_Notes-181717?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 Simple File Encryption</h3>
-      <p align="center">
-        <a href="https://github.com/fightMMC0lub/file-encryption" target="_blank">
-          <img src="https://placeholder.svg?height=200&width=400&text=File+Encryption" alt="File Encryption" width="100%"/>
-        </a>
-      </p>
-      <p>Learning how to encrypt and decrypt files using basic encryption methods.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/fightMMC0lub/file-encryption" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### [Port Scanner Lite](https://github.com/fightMMC0lub/PortScannerLite)
+A simple Python tool to check for open ports on networks. This was my first project to understand how network scanning works.
+
+**Technologies:** Python, Socket Programming
+
+### [Network Automation Tool](https://github.com/fightMMC0lub/Network-automation-tool)
+A cross-platform tool that helps automate basic network tasks like ping and traceroute. Saves results to log files for review.
+
+**Technologies:** Python, Cross-platform scripting
+
+### More Projects Coming Soon
+I'm currently working on new projects to practice what I'm learning in class.
 
 ---
 
-## 🎓 Education & Learning
+## 📚 Education
 
-### 🏫 Current Education
-**Studying Cybersecurity**  
-*IFMOTICA FES* | Currently in: [2026/01]  
-- Learning the fundamentals of information security
-- Basic courses in computer networks and programming
-- Introduction to security tools and concepts
+**Diploma in Infrastructure Digital - Cybersecurity Option**  
+*IFMOTICA FES, Fes* | Expected Graduation: 2026
 
-### 📖 What I'm Currently Learning
-- Basic Linux commands
-- Simple Python programming for security tasks
-- How computer networks work
-- Introduction to cybersecurity ethics and best practices
-- Basic troubleshooting and problem-solving
-
-### 🏆 My Learning Goals
-- Complete my cybersecurity courses successfully
-- Build a solid foundation in security basics
-- Create small projects to practice what I learn
-- Improve my programming skills
-- Learn from online resources and tutorials
+**Baccalaureate in Physical Sciences**  
+*2023*
 
 ---
 
-## 📊 GitHub Statistics
+## 🌐 Online Presence
+
+I write about what I'm learning on these platforms:
+- [Personal Website](https://fightmmc0lub.github.io/)
+- [Tech Blog (Blogger)](https://the0xtechworld.blogspot.com)
+- [Tech Blog (Hashnode)](https://tchworld.hashnode.dev/)
+- [Tech Blog (Bear Blog)](https://techx0.bearblog.dev/)
+- [Medium Articles](https://medium.com/@getshop463)
+
+---
+
+## 💬 Languages
+
+- **Arabic** - Native
+- **French** - B2 Level
+- **English** - B2 Level
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=fightMMC0lub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A202C&title_color=3182CE&icon_color=38A169&text_color=E2E8F0" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fightMMC0lub&theme=tokyonight&hide_border=true&background=1A202C&ring=3182CE&fire=38A169&currStreakLabel=E2E8F0" alt="GitHub Streak" width="48%"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fightMMC0lub&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A202C&title_color=3182CE&text_color=E2E8F0" alt="Top Languages" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=fightMMC0lub&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="48%"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=fightMMC0lub&show_icons=true&theme=default&hide_border=true&bg_color=00000000" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fightMMC0lub&layout=compact&theme=default&hide_border=true&bg_color=00000000" width="48%"/>
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-I'm a beginner in cybersecurity and always looking to learn from others. I'm open to connecting with fellow students, teachers, or anyone who can help me grow in this field.
+I'm always happy to connect with fellow students, professionals, or anyone interested in cybersecurity. I'm still learning, but I'm passionate about this field and enjoy discussing technology.
 
-<div align="center">
-  
-  ### 💬 Let's Connect
-  
-  [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fightMMC0lub)
-  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fouad-azahaf/)
-  [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fouadazahf@gmail.com)
-  
-  ### 📍 Status
-  
-  🌍 **Location:** Fes, Morocco | ⏰ **Timezone:** UTC+1  
-  🎓 **Student Status:** Currently studying cybersecurity  
-  📚 **Looking for:** Learning resources and guidance  
-  💬 **Happy to:** Chat about technical consultations
-  
-</div>
+**Feel free to reach out if you:**
+- Want to chat about cybersecurity basics
+- Have learning resources to share
+- Are also starting out in tech/security
+- Just want to say hello!
 
----
-
-## 📝 Recent Learning Activities
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💭 My Learning Philosophy
-
-> *"Every expert was once a beginner. I'm taking my first steps in cybersecurity & network and excited about the journey ahead."*
-
-As a beginner, I believe in starting with the basics and building my knowledge slowly. I want to understand the fundamentals well before moving to more advanced topics. I'm committed to learning, asking questions, and practicing regularly.
-
----
-
-<div align="center">
-  
-  ### 📈 Current Focus
-  
-  🔭 **Learning:** Basic cybersecurity concepts  
-  🌱 **Practicing:** Simple C++ programming  
-  📖 **Studying:** Computer networks fundamentals & network
-  🎯 **Goal:** Build a strong foundation for future learning
-  
-</div>
-
----
-
-## 📫 Contact Information
-
-- **Full Name:** Fouad Azahaf
-- **GitHub:** [https://github.com/fightMMC0lub](https://github.com/fightMMC0lub)
-- **LinkedIn:** [https://www.linkedin.com/in/fouad-azahaf/](https://www.linkedin.com/in/fouad-azahaf/)
+**Best ways to reach me:**
 - **Email:** fouadazahf@gmail.com
-- **Location:** Fes, Morocco
-- **Timezone:** UTC+1 (Morocco Time)
-- **Ista:** IFMOTICA FES
-- **Status:** Cybersecurity Student (Beginner Level)
-- **Looking to:** excited to learn, grow, and share knowledge in the cybersecurity world
+- **LinkedIn:** [fouad-azahaf](https://www.linkedin.com/in/fouad-azahaf/)
+- **GitHub:** [fightMMC0lub](https://github.com/fightMMC0lub)
 
 ---
 
 <div align="center">
   
-  <sub>**© 2025 Fouad Azahaf** | A cybersecurity student learning and growing</sub>
+  *Thanks for visiting my profile!* 
   
-  <sub>*Last Updated: December 2024*</sub>
+  **📍 Fes, Morocco** | **🎓 Cybersecurity Student** | **🚀 Learning every day**
   
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  ---
+  
+  <sub>© 2024 Fouad Azahaf</sub>
   
 </div>
