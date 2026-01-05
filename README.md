@@ -27,6 +27,21 @@ Outside of studies, I work on small projects to practice what I'm learning. I be
 
 ---
 
+## 📄 My Resume
+
+I keep an updated resume online where you can see my skills, projects, and experience in more detail:
+
+**👉 [View my Resume](https://fouad-azahaf.netlify.app/)**
+
+The resume includes:
+- My technical skills and what I'm currently learning
+- Details about my projects and GitHub repositories
+- My education background and certifications
+- Contact information and online profiles
+- Print-friendly version available
+
+---
+
 ## 🛠️ What I'm Learning
 
 ### Programming & Scripting
@@ -116,6 +131,7 @@ I'm always happy to connect with fellow students, professionals, or anyone inter
 - **Email:** fouadazahf@gmail.com
 - **LinkedIn:** [fouad-azahaf](https://www.linkedin.com/in/fouad-azahaf/)
 - **GitHub:** [fightMMC0lub](https://github.com/fightMMC0lub)
+- **Resume:** [fouad-azahaf.netlify.app](https://fouad-azahaf.netlify.app/)
 
 ---
 
