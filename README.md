@@ -248,6 +248,6 @@ As a beginner, I believe in starting with the basics and building my knowledge s
 - **Email:** fouadazahf@gmail.com
 - **Location:** Fes, Morocco
 - **Timezone:** UTC+1 (Morocco Time)
-- **University:** IFMOTICA FES
+- **Ista:** IFMOTICA FES
 - **Status:** Cybersecurity Student (Beginner Level)
 - **Looking to:** excited to learn, grow, and share knowledge in the cybersecurity world
