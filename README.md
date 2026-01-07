@@ -1,7 +1,9 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/fightMMC0lub/fightMMC0lub/main/assets/pr.png" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #3182CE;" width="120" height="120">
-  
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNjeXo5anEzeGwzOWJ0OWdsYzduc3FjZGloOWxkNjF2Ymhtc2tnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TzXweXeJ9d1IhZ5YAy/giphy.gif" 
+     alt="Animated Profile Picture" 
+     style="border-radius: 50%; border: 3px solid #3182CE;" 
+     width="120" height="120">  
   # 👋 Hi, I'm Fouad Azahaf
   
   ### Cybersecurity Student
