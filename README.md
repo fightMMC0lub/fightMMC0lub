@@ -9,7 +9,7 @@
   ### Cybersecurity Student
   
   *Learning about security, networks, and how to keep things safe online*
-  
+  [![twtxt](https://img.shields.io/badge/twtxt-notes-black)](https://fightmmc0lub.github.io/twtxt.txt)
   [![GitHub](https://img.shields.io/badge/GitHub-fightMMC0lub-181717?style=flat&logo=github)](https://github.com/fightMMC0lub)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fouad%20Azahaf-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/fouad-azahaf/)
   [![Email](https://img.shields.io/badge/Email-fouadazahf%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:fouadazahf@gmail.com)
