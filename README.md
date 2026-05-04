@@ -1,9 +1,9 @@
 <div align="center">
   
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlrNjZsdDJ0cmdzdDc4ZWQ2ZmhrZDZyZnl3aHRtNXkwOGFhOXUyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cZZYyfmx58Nyg/giphy.gif"
-     alt="Animated Profile Picture" 
-     style="border-radius: 50%; border: 3px solid #3182CE;" 
-     width="120" height="120">  
+     alt="Funny GIF"
+     style="border-radius:20px; border:3px solid #3182CE;"
+     width="400" height="400">
   # 👋 Hi, I'm Fouad Azahaf
   
   ### Cybersecurity Student
