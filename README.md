@@ -48,22 +48,6 @@ I write about what I'm learning on these platforms:
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always happy to connect with fellow students, professionals, or anyone interested in cybersecurity. I'm still learning, but I'm passionate about this field and enjoy discussing technology.
-
-**Feel free to reach out if you:**
-- Want to chat about cybersecurity basics
-- Have learning resources to share
-- Are also starting out in tech/security
-- Just want to say hello!
-
-**Best ways to reach me:**
-- **Email:** fouadazahf@gmail.com
-- **LinkedIn:** [fouad-azahaf](https://www.linkedin.com/in/fouad-azahaf/)
-- **GitHub:** [fightMMC0lub](https://github.com/fightMMC0lub)
-- **Resume:** [fouad-azahaf.netlify.app](https://fouad-azahaf.netlify.app/)
-
 ---
 
 <div align="center">
