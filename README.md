@@ -4,7 +4,7 @@
      alt="Funny GIF"
      style="border-radius:20px; border:3px solid #3182CE;"
      width="400" height="400">
-  #  Hi, I'm Fouad 
+  #  welcome 
   
   ### Student
   
@@ -22,7 +22,7 @@
 
 ## 🌐 Online Presence
 
-I write about what I'm learning on these platforms:
+...it would be here
 - [Personal Website](https://fightmmc0lub.github.io/)
 - [Tech Blog (Blogger)](https://the0xtechworld.blogspot.com)
 - [Tech Blog (Hashnode)](https://tchworld.hashnode.dev/)
