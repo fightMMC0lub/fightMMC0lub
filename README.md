@@ -4,9 +4,9 @@
      alt="Funny GIF"
      style="border-radius:20px; border:3px solid #3182CE;"
      width="400" height="400">
-  # 👋 Hi, I'm Fouad Azahaf
+  #  Hi, I'm Fouad 
   
-  ### Cybersecurity Student
+  ### Student
   
   *Learning about security, networks, and how to keep things safe online*
   
@@ -22,73 +22,9 @@
 
 ## 📝 About Me
 
-Hello! I'm Fouad, a cybersecurity student from Fes, Morocco. I'm currently studying digital infrastructure with a focus on cybersecurity and learning how systems work and how to protect them.
-
-I'm still early in my learning journey, but I'm excited about security and enjoy figuring out how things work. Right now, I'm focused on understanding the basics and building a solid foundation.
+I'm excited about security and enjoy figuring out how things work. Right now, I'm focused on understanding the basics and building a solid foundation.
 
 Outside of studies, I work on small projects to practice what I'm learning. I believe the best way to learn is by doing, so I try to apply new concepts through hands-on practice.
-
----
-
-## 📄 My Resume
-
-I keep an updated resume online where you can see my skills, projects, and experience in more detail:
-
-**👉 [View my Resume](https://fouad-azahaf.netlify.app/)**
-
-The resume includes:
-- My technical skills and what I'm currently learning
-- Details about my projects and GitHub repositories
-- My education background and certifications
-- Contact information and online profiles
-- Print-friendly version available
-
----
-
-## 🛠️ What I'm Learning
-
-### Programming & Scripting
-- **Python** - For security tools and automation
-- **Bash/PowerShell** - For system tasks and scripting
-- **JavaScript/HTML/CSS** - Web basics
-
-### Security Tools
-- **Network scanning** with basic tools
-- **Linux command line** and system basics
-- **Docker** for containerization
-
-### Current Focus Areas
-- Network security fundamentals
-- Basic system administration
-- Web technology basics
-- Scripting for automation
-
----
-
-## 🚀 My Projects
-
-### [Port Scanner Lite](https://github.com/fightMMC0lub/PortScannerLite)
-A simple Python tool to check for open ports on networks. This was my first project to understand how network scanning works.
-
-**Technologies:** Python, Socket Programming
-
-### [Network Automation Tool](https://github.com/fightMMC0lub/Network-automation-tool)
-A cross-platform tool that helps automate basic network tasks like ping and traceroute. Saves results to log files for review.
-
-**Technologies:** Python, Cross-platform scripting
-
-### More Projects Coming Soon
-I'm currently working on new projects to practice what I'm learning in class.
-
----
-
-## 📚 Education
-
-**Diploma in Infrastructure Digital - Cybersecurity Option**  
-*IFMOTICA FES, Fes* | Expected Graduation: 2026
-
-**Baccalaureate in Physical Sciences**  
-*2023*
 
 ---
 
@@ -100,14 +36,6 @@ I write about what I'm learning on these platforms:
 - [Tech Blog (Hashnode)](https://tchworld.hashnode.dev/)
 - [Tech Blog (Bear Blog)](https://techx0.bearblog.dev/)
 - [Medium Articles](https://medium.com/@getshop463)
-
----
-
-## 💬 Languages
-
-- **Arabic** - Native
-- **French** - B2 Level
-- **English** - B2 Level
 
 ---
 
@@ -142,10 +70,8 @@ I'm always happy to connect with fellow students, professionals, or anyone inter
   
   *Thanks for visiting my profile!* 
   
-  **📍 Fes, Morocco** | **🎓 Cybersecurity Student** | **🚀 Learning every day**
-  
   ---
   
-  <sub>© 2024 Fouad Azahaf</sub>
+  <sub>© 2024 Fouad </sub>
   
 </div>
