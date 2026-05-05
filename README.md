@@ -22,9 +22,7 @@
 
 ## 📝 About Me
 
-I'm excited about security and enjoy figuring out how things work. Right now, I'm focused on understanding the basics and building a solid foundation.
-
-Outside of studies, I work on small projects to practice what I'm learning. I believe the best way to learn is by doing, so I try to apply new concepts through hands-on practice.
+I'm excited about security and enjoy figuring out how things work. Right now, I'm focused on understanding the basics and Bla Bla bla bla bla .....
 
 ---
 
@@ -52,8 +50,7 @@ I write about what I'm learning on these platforms:
 
 <div align="center">
   
-  *Thanks for visiting my profile!* 
-  
+*[Thanks for visiting]( https://nohello.net/)*
   ---
   
   <sub>© 2024 Fouad </sub>
