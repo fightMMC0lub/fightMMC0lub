@@ -8,7 +8,7 @@
   
   ### Student
   
-  *Learning about security, networks, and how to keep things safe online*
+  *I'm excited about security and enjoy figuring out how things work. Right now, I'm focused on understanding the basics and Bla Bla bla bla bla .....*
   
   [![twtxt](https://img.shields.io/badge/twtxt-notes-black)](https://fightmmc0lub.github.io/twtxt.txt)
   [![GitHub](https://img.shields.io/badge/GitHub-fightMMC0lub-181717?style=flat&logo=github)](https://github.com/fightMMC0lub)
@@ -17,12 +17,6 @@
   [![Resume](https://img.shields.io/badge/Resume-View%20Online-4285F4?style=flat&logo=googledocs)](https://fouad-azahaf.netlify.app/)
   
 </div>
-
----
-
-## 📝 About Me
-
-I'm excited about security and enjoy figuring out how things work. Right now, I'm focused on understanding the basics and Bla Bla bla bla bla .....
 
 ---
 
