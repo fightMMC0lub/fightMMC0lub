@@ -33,6 +33,8 @@
 <div align="center">
   
 *[Thanks for visiting]( https://nohello.net/)*
+*[Don't ask to ask, just ask](https://dontasktoask.com/)*
+
   ---
   
   <sub>© 2024 Fouad </sub>
